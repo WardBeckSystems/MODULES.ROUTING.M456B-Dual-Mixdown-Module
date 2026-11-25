@@ -1,0 +1,242 @@
+{
+ "code": "M456B",
+ "connector": "RTO-144",
+ "type": "M456B - Dual Mixdown Module",
+ "series": null,
+ "contacts": "21 contacts (P1), 21 contacts (P2)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf",
+   "page": 26
+  },
+  {
+   "pin": "5",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/SCHEMATICS/1975 - M456B - 456-02-003 - PI-H SWIA RIES.jpg",
+   "page": 1
+  },
+  {
+   "pin": "5",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/SCHEMATICS/1975 - M456B - 456-02-003 - PI-H SWIA RIES.jpg",
+   "page": 1
+  },
+  {
+   "pin": "9",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf",
+   "page": 5
+  },
+  {
+   "pin": "13",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/SCHEMATICS/1975 - M456B - 456-02-003 - PI-H SWIA RIES.jpg",
+   "page": 1
+  },
+  {
+   "pin": "14",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/SCHEMATICS/1975 - M456B - 456-02-003 - PI-H SWIA RIES.jpg",
+   "page": 1
+  },
+  {
+   "pin": "15",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/SCHEMATICS/1975 - M456B - 456-02-003 - PI-H SWIA RIES.jpg",
+   "page": 1
+  },
+  {
+   "pin": "16",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module.pdf",
+   "page": 26
+  },
+  {
+   "pin": "17",
+   "signal": "CTL",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/SCHEMATICS/1975 - M456B - 456-02-003 - PI-H SWIA RIES.jpg",
+   "page": 1
+  },
+  {
+   "pin": "18",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - P006 - 2-2.jpg",
+   "page": 1
+  },
+  {
+   "pin": "18",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/SCHEMATICS/1975 - M456B - 456-02-003 - PI-H SWIA RIES.jpg",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - P005 - 2-1.jpg",
+   "page": 1
+  },
+  {
+   "pin": "F",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/SCHEMATICS/1975 - M456B - 456-02-003 - PI-H SWIA RIES.jpg",
+   "page": 1
+  },
+  {
+   "pin": "L",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module.pdf",
+   "page": 26
+  },
+  {
+   "pin": "P",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf",
+   "page": 6
+  },
+  {
+   "pin": "R",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf",
+   "page": 6
+  },
+  {
+   "pin": "T",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf",
+   "page": 5
+  },
+  {
+   "pin": "U",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf",
+   "page": 5
+  },
+  {
+   "pin": "V",
+   "signal": "SOLO",
+   "kind": "audio",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf",
+   "page": 26
+  },
+  {
+   "pin": "Y",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/ROUTING/M456B/SCHEMATICS/1975 - M456B - 456-02-003 - PI-H SWIA RIES.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M456B/M456B.rto144.json",
+  "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf",
+  "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module.pdf",
+  "Modules/ROUTING/M456B/MANUALS/1975 - M456B - P005 - 2-1.jpg",
+  "Modules/ROUTING/M456B/MANUALS/1975 - M456B - P006 - 2-2.jpg",
+  "Modules/ROUTING/M456B/SCHEMATICS/1975 - M456B - 456-02-003 - PI-H SWIA RIES.jpg"
+ ]
+}
