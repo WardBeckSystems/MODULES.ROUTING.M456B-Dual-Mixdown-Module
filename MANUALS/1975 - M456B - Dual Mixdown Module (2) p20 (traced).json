@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf",
+ "page": 20,
+ "version": 1,
+ "trace": "_traces/7ca8c01333081906-p20.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "20", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.6, 5.2, 333.3, 425.4],
+ "outlines": {
+  "line": {"rings": 125, "straight": {"n": 1732, "mm": 3662.4}, "curved": {"n": 233, "mm": 358.3}},
+  "text": {"rings": 1078, "straight": {"n": 8790, "mm": 9508.6}, "curved": {"n": 2416, "mm": 3835.1}},
+  "tb": {"rings": 3, "straight": {"n": 28, "mm": 37.6}, "curved": {"n": 8, "mm": 15.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 169,
+  "lines": [
+   {"mm": [26.3, 410.4, 138.4, 415.7], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [141.6, 359.9, 185.7, 366.9], "text": "DESCRIPTION"},
+   {"mm": [117.0, 346.3, 132.3, 353.3], "text": "5-10"},
+   {"mm": [145.5, 346.3, 210.3, 353.3], "text": "AMPLIFIER SERIES"},
+   {"mm": [35.0, 318.9, 279.8, 325.8], "text": "The operation of both amplifier sections is identical. On ly"},
+   {"mm": [35.2, 311.8, 153.1, 318.7], "text": "one section wi ll be described"},
+   {"mm": [35.4, 298.6, 283.5, 305.5], "text": "Each section consists of two ndi vi dua inverting amplifiers,"},
+   {"mm": [35.6, 291.7, 287.8, 298.6], "text": "namely Zl and Z2. These are followed by their respective out-"},
+   {"mm": [35.6, 284.3, 136.9, 291.3], "text": "put stages Ql through Q4."},
+   {"mm": [36.1, 271.4, 259.1, 278.3], "text": "In the 5-101, the two amplifier inputs are nt conne ct"},
+   {"mm": [273.3, 271.4, 279.4, 278.3], "text": "to"},
+   {"mm": [35.6, 264.3, 63.3, 271.2], "text": "provide"},
+   {"mm": [76.4, 264.3, 255.2, 271.2], "text": "cross coupled different ial pair res ulting in"},
+   {"mm": [35.8, 257.6, 271.8, 264.5], "text": "balanced ,000 ohm input. The output is actively balanced"},
+   {"mm": [35.6, 243.8, 263.6, 250.7], "text": "The 5-101A is designed with the Z2 section to be used as"},
+   {"mm": [35.8, 237.1, 288.2, 244.0], "text": "summing (mixing) input. The output of this section at termina"},
+   {"mm": [36.1, 230.1, 288.4, 237.1], "text": "E4 is externally connected to E1, thus providing an unbalanced"},
+   {"mm": [36.3, 223.0, 190.4, 230.0], "text": "input and an actively balanced output."},
+   {"mm": [36.1, 209.6, 287.6, 216.6], "text": "The 5-101B presents an unbalanced bridging input (15k ohms) to"},
+   {"mm": [36.5, 202.7, 272.7, 209.7], "text": "the source. As is the case with the 5-101A, the output at"},
+   {"mm": [36.5, 196.0, 268.6, 203.0], "text": "terminal E4 is externally connected to E1 and is actively"},
+   {"mm": [36.5, 188.3, 71.7, 195.2], "text": "balanced."},
+   {"mm": [36.5, 175.7, 272.7, 182.7], "text": "R47 to R50 together with C15 and C16 provide on-card power"},
+   {"mm": [36.5, 168.2, 108.6, 175.1], "text": "supply decoup1ing."},
+   {"mm": [284.8, 59.2, 305.7, 68.3], "text": "ps"},
+   {"mm": [273.3, 47.7, 295.1, 59.2], "text": "BS"},
+   {"mm": [250.9, 25.3, 269.4, 32.5], "text": "tp"},
+   {"mm": [150.3, 19.6, 180.1, 25.4], "text": "5-101-1-2"},
+   {"mm": [243.5, 18.1, 264.5, 25.3], "text": "ht"},
+   {"mm": [50.1, 17.7, 55.9, 23.0], "text": "10"}
+  ]
+ },
+ "title_block": {"mm": [19.6, 401.7, 127.0, 424.3], "from": "title-block words (training set)", "text": ["WARD-BECK SYSTEMS LTD"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–333 mm across, 5–425 mm up",
+  "- **Outlines:** line 125 rings, 1,732 straight (3,662 mm) / 233 curved (358 mm); text 1,078 rings, 8,790 straight (9,509 mm) / 2,416 curved (3,835 mm); tb 3 rings, 28 straight (37.6 mm) / 8 curved (15.6 mm)",
+  "- **Words (OCR):** 169 in 30 lines: WARD-BECK SYSTEMS LTD · DESCRIPTION · 5-10 · AMPLIFIER SERIES · The operation of both amplifier sections is identical. On ly · one section wi ll be described · Each section consists of two ndi vi dua inverting amplifiers, · namely Zl and Z2. These are followed by their respective out- · put stages Q",
+  "- **Title block:** (20, 402)–(127, 424) mm: WARD-BECK SYSTEMS LTD"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "drawing": "Modules/ROUTING/M456B/PINOUTS/1975 - M456B - 456-04-006 - DUAL MIXDOWN MODULE CONNECTOR REAR VIEW.jpg",
+ "version": 1,
+ "trace": "_traces/f2e0533228984a26.svg",
+ "sheet": {
+  "number": "456-04-006",
+  "title": "Dual Mixdown Module Connector Rear View",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 90,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.7, 0.4, 429.4, 287.6],
+ "outlines": {
+  "line": {"rings": 453, "straight": {"n": 3670, "mm": 6309.7}, "curved": {"n": 526, "mm": 766.8}},
+  "text": {"rings": 668, "straight": {"n": 3258, "mm": 3314.3}, "curved": {"n": 711, "mm": 1029.0}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [343.5, 62.2, 409.3, 68.7], "w": 65.8, "h": 6.5, "from": "ring"},
+  {"mm": [316.7, 62.2, 329.7, 68.4], "w": 13.0, "h": 6.3, "from": "ring"},
+  {"mm": [330.1, 62.4, 343.1, 68.4], "w": 13.0, "h": 6.0, "from": "ring"},
+  {"mm": [283.7, 43.8, 422.3, 61.5], "w": 138.6, "h": 17.7, "from": "ring"},
+  {"mm": [316.6, 17.3, 422.3, 43.6], "w": 105.7, "h": 26.3, "from": "ring"},
+  {"mm": [283.7, 37.4, 316.7, 43.4], "w": 33.0, "h": 6.1, "from": "ring"},
+  {"mm": [283.9, 30.3, 316.5, 37.0], "w": 32.6, "h": 6.7, "from": "ring"},
+  {"mm": [283.7, 24.0, 316.7, 30.0], "w": 33.0, "h": 6.0, "from": "ring"},
+  {"mm": [283.7, 17.3, 316.5, 23.5], "w": 32.8, "h": 6.3, "from": "ring"},
+  {"mm": [396.2, 4.3, 422.3, 17.1], "w": 26.1, "h": 12.8, "from": "ring"},
+  {"mm": [330.1, 4.1, 396.0, 17.1], "w": 65.9, "h": 13.0, "from": "ring"},
+  {"mm": [283.7, 3.9, 316.5, 16.8], "w": 32.8, "h": 12.9, "from": "ring"},
+  {"mm": [316.9, 4.3, 329.7, 16.8], "w": 12.7, "h": 12.5, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 456-04-006, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 1–429 mm across, 0–288 mm up",
+  "- **Outlines:** line 453 rings, 3,670 straight (6,310 mm) / 526 curved (767 mm); text 668 rings, 3,258 straight (3,314 mm) / 711 curved (1,029 mm)",
+  "- **Closed boxes:** 13"
+ ]
+}

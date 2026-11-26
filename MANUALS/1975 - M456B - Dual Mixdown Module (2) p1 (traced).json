@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/7ca8c01333081906-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 318.7, 424.9],
+ "outlines": {
+  "line": {"rings": 205, "straight": {"n": 2815, "mm": 5552.3}, "curved": {"n": 460, "mm": 736.6}},
+  "text": {"rings": 123, "straight": {"n": 889, "mm": 1151.1}, "curved": {"n": 163, "mm": 259.8}}
+ },
+ "circles": [{"c": [172.9, 237.0], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [155.2, 413.4, 159.8, 416.9], "w": 4.5, "h": 3.5, "from": "ring"}],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [49.4, 400.7, 190.2, 417.0], "text": "(VVElS) PROGF'ESSI AVE NuE!"},
+   {"mm": [125.9, 409.8, 255.4, 417.2], "text": "WARD-BECK SYSTEM"},
+   {"mm": [275.1, 409.8, 289.5, 417.2], "text": "TD"},
+   {"mm": [279.6, 402.4, 290.8, 408.9], "text": "ax.."},
+   {"mm": [194.7, 402.9, 263.8, 407.7], "text": "SCAReOROLGH. ONTAFlCI"},
+   {"mm": [125.7, 397.0, 137.3, 401.4], "text": "1CLE"},
+   {"mm": [146.4, 397.0, 178.3, 401.4], "text": "0EIe'2S399"},
+   {"mm": [215.5, 397.0, 248.9, 401.4], "text": "TEl..EPHONE,"},
+   {"mm": [261.2, 396.4, 290.4, 402.4], "text": "'''3f:N~S~"},
+   {"mm": [146.6, 244.8, 203.6, 254.9], "text": "M45SB"},
+   {"mm": [126.5, 232.3, 218.3, 238.8], "text": "DUA MIXOOWN MODUL"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [237.3, 400.3], "r": 1.2, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–319 mm across, 0–425 mm up",
+  "- **Outlines:** line 205 rings, 2,815 straight (5,552 mm) / 460 curved (737 mm); text 123 rings, 889 straight (1,151 mm) / 163 curved (260 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.8 @ (172.9, 237.0)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 22 in 15 lines: (VVElS) PROGF'ESSI AVE NuE! · WARD-BECK SYSTEM · TD · ax.. · SCAReOROLGH. ONTAFlCI · 1CLE · 0EIe'2S399 · TEl..EPHONE, · '''3f:N~S~ · M45SB · DUA MIXOOWN MODUL · ps"
+ ]
+}

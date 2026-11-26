@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module.pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/074c563cdd860e1b-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 8.6, 334.4, 419.3],
+ "outlines": {
+  "line": {"rings": 27, "straight": {"n": 930, "mm": 3118.5}, "curved": {"n": 110, "mm": 177.3}},
+  "text": {"rings": 377, "straight": {"n": 3139, "mm": 3595.8}, "curved": {"n": 800, "mm": 1233.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 46,
+  "lines": [
+   {"mm": [30.7, 412.8, 147.9, 420.4], "text": "WAAD-BECK systems LTD_"},
+   {"mm": [143.1, 365.3, 201.9, 373.5], "text": "TECHNICAL DATA"},
+   {"mm": [118.7, 351.9, 164.5, 360.1], "text": "M456B DUAL"},
+   {"mm": [167.8, 350.6, 226.0, 359.5], "text": "MIXDOWN_MODULE"},
+   {"mm": [45.1, 325.6, 78.8, 334.5], "text": "Phasing:"},
+   {"mm": [147.2, 323.4, 298.2, 332.6], "text": "Input and output termina]s des i gnated"},
+   {"mm": [147.2, 317.4, 205.3, 325.5], "text": "by numbers are"},
+   {"mm": [208.1, 318.5, 217.2, 324.9], "text": "in"},
+   {"mm": [220.2, 317.4, 242.2, 325.0], "text": "phase"},
+   {"mm": [45.1, 305.5, 123.5, 313.4], "text": "Power Requirements :"},
+   {"mm": [146.2, 304.9, 184.4, 313.0], "text": "+25 volts"},
+   {"mm": [187.0, 304.0, 257.4, 312.9], "text": "dc , 50 ma nomina]"},
+   {"mm": [264.9, 304.0, 285.9, 311.4], "text": "75 mA"},
+   {"mm": [146.8, 298.4, 179.6, 305.3], "text": "maximum."},
+   {"mm": [44.7, 284.6, 164.5, 293.4], "text": "Ambient Temperature: to"},
+   {"mm": [167.3, 283.9, 241.6, 292.3], "text": "60 degrees Celsius"},
+   {"mm": [45.1, 270.7, 91.3, 280.3], "text": "Dimensions :"},
+   {"mm": [115.9, 269.4, 269.0, 279.6], "text": "1.6\" wide 14.15\" high 6 . 5\""},
+   {"mm": [271.6, 268.8, 290.4, 278.6], "text": "deep"},
+   {"mm": [146.8, 263.8, 172.3, 272.5], "text": "(41 Mm"},
+   {"mm": [183.5, 264.5, 209.2, 271.6], "text": "360 mm"},
+   {"mm": [220.2, 263.8, 249.6, 271.4], "text": "165 mm )"},
+   {"mm": [166.2, 7.6, 179.2, 14.5], "text": "1-2"}
+  ]
+ },
+ "title_block": {"mm": [24.0, 404.8, 135.2, 429.1], "from": "title-block words (training set)", "text": ["WAAD-BECK systems LTD_"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 9–419 mm up",
+  "- **Outlines:** line 27 rings, 930 straight (3,118 mm) / 110 curved (177 mm); text 377 rings, 3,139 straight (3,596 mm) / 800 curved (1,233 mm)",
+  "- **Words (OCR):** 46 in 23 lines: WAAD-BECK systems LTD_ · TECHNICAL DATA · M456B DUAL · MIXDOWN_MODULE · Phasing: · Input and output termina]s des i gnated · by numbers are · in · phase · Power Requirements : · +25 volts · dc , 50 ma nomina]",
+  "- **Title block:** (24, 405)–(135, 429) mm: WAAD-BECK systems LTD_"
+ ]
+}

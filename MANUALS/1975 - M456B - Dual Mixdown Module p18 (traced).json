@@ -1,0 +1,42 @@
+{
+ "drawing": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module.pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/074c563cdd860e1b-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 311.8, 424.2],
+ "outlines": {
+  "line": {"rings": 28, "straight": {"n": 394, "mm": 2993.1}, "curved": {"n": 30, "mm": 45.5}},
+  "text": {"rings": 55, "straight": {"n": 551, "mm": 694.0}, "curved": {"n": 104, "mm": 165.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [30.2, 408.1, 145.1, 415.0], "text": "WAAD-BECK Eybtemb LTD_"},
+   {"mm": [124.1, 280.7, 213.5, 287.6], "text": "5-101 AMPLIFIER SERIES"},
+   {"mm": [158.7, 6.5, 179.8, 14.2], "text": "5 -101"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–312 mm across, 0–424 mm up",
+  "- **Outlines:** line 28 rings, 394 straight (2,993 mm) / 30 curved (45.5 mm); text 55 rings, 551 straight (694 mm) / 104 curved (165 mm)",
+  "- **Words (OCR):** 6 in 3 lines: WAAD-BECK Eybtemb LTD_ · 5-101 AMPLIFIER SERIES · 5 -101"
+ ]
+}

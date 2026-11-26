@@ -1,0 +1,68 @@
+{
+ "drawing": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/7ca8c01333081906-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 8.6, 334.4, 419.3],
+ "outlines": {
+  "line": {"rings": 188, "straight": {"n": 2293, "mm": 4734.0}, "curved": {"n": 450, "mm": 704.5}},
+  "text": {"rings": 226, "straight": {"n": 1806, "mm": 2046.1}, "curved": {"n": 438, "mm": 697.4}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [52.5, 415.8, 55.5, 418.0], "w": 3.0, "h": 2.2, "from": "ring"}],
+ "text": {
+  "words": 68,
+  "lines": [
+   {"mm": [32.2, 413.0, 85.1, 418.3], "text": "WAFlO ·SECI<"},
+   {"mm": [132.6, 413.0, 141.2, 418.3], "text": "LT"},
+   {"mm": [145.3, 365.1, 202.7, 371.1], "text": "TECHNICAL DATA"},
+   {"mm": [120.5, 351.5, 226.0, 357.5], "text": "H4568 DUAL HIXOOWN MODULE"},
+   {"mm": [47.3, 324.5, 75.1, 330.5], "text": "Phas ng"},
+   {"mm": [153.3, 324.5, 213.5, 330.5], "text": "nput an output"},
+   {"mm": [230.1, 324.5, 286.3, 330.5], "text": "minal des gna"},
+   {"mm": [148.8, 318.0, 240.9, 324.0], "text": "by uebe t-s ar in phase"},
+   {"mm": [46.9, 305.1, 122.8, 311.1], "text": "Power Requi re lllen ts:"},
+   {"mm": [148.8, 305.1, 176.4, 311.1], "text": "t25 ol"},
+   {"mm": [189.6, 305.1, 255.0, 311.1], "text": "ec 50 lilA noe net"},
+   {"mm": [266.6, 305.1, 274.2, 311.1], "text": "75"},
+   {"mm": [278.3, 304.9, 287.1, 311.1], "text": "iliA"},
+   {"mm": [148.3, 298.4, 176.8, 303.7], "text": "lIaxhl llll"},
+   {"mm": [46.6, 285.0, 115.1, 291.0], "text": "A_bie nt TeMpe ratu"},
+   {"mm": [168.8, 285.0, 240.7, 291.0], "text": "60 deg rees Ce sius"},
+   {"mm": [54.8, 271.2, 87.0, 277.2], "text": "ee ns es"},
+   {"mm": [149.2, 271.2, 184.8, 277.2], "text": "1.6 wi de"},
+   {"mm": [198.2, 271.2, 217.4, 277.2], "text": "14. 15"},
+   {"mm": [233.8, 271.2, 240.9, 277.2], "text": "gh"},
+   {"mm": [274.4, 271.2, 289.5, 277.2], "text": "de ep"},
+   {"mm": [221.9, 264.0, 249.1, 270.0], "text": "165 111M)"},
+   {"mm": [164.7, 264.0, 172.5, 269.8], "text": "11111"},
+   {"mm": [185.5, 264.0, 212.4, 269.8], "text": "360 1111"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 9–419 mm up",
+  "- **Outlines:** line 188 rings, 2,293 straight (4,734 mm) / 450 curved (704 mm); text 226 rings, 1,806 straight (2,046 mm) / 438 curved (697 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 68 in 28 lines: WAFlO ·SECI< · LT · TECHNICAL DATA · H4568 DUAL HIXOOWN MODULE · Phas ng · nput an output · minal des gna · by uebe t-s ar in phase · Power Requi re lllen ts: · t25 ol · ec 50 lilA noe net · 75"
+ ]
+}

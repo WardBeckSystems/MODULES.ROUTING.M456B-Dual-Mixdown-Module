@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/074c563cdd860e1b-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 318.7, 424.7],
+ "outlines": {
+  "line": {"rings": 35, "straight": {"n": 842, "mm": 2946.4}, "curved": {"n": 80, "mm": 125.8}},
+  "text": {"rings": 191, "straight": {"n": 2145, "mm": 2774.3}, "curved": {"n": 471, "mm": 767.7}},
+  "tb": {"rings": 2, "straight": {"n": 118, "mm": 292.4}, "curved": {"n": 8, "mm": 19.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [125.4, 409.3, 290.8, 419.8], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [54.4, 401.6, 290.4, 416.2], "text": "WBS 041 PAOGRESS AVENUE: SCARBOROUGH; ONTARIO Mih?x4"},
+   {"mm": [124.1, 397.7, 178.5, 404.2], "text": "TeleX: 065-25399"},
+   {"mm": [214.0, 397.5, 290.0, 402.7], "text": "TELEPHONE: 416/438-6550"},
+   {"mm": [144.9, 245.3, 203.6, 258.2], "text": "Ma56b"},
+   {"mm": [125.2, 233.2, 146.8, 240.8], "text": "DUAL"},
+   {"mm": [150.5, 232.1, 224.3, 240.9], "text": "MIXDOWN MODULE"},
+   {"mm": [79.9, 6.0, 256.9, 13.0], "text": "DESICN AND MANUFACTURE OF PAOFESSIONAL AUDIO EQUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [47.7, 392.9, 271.4, 428.6],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD", "WBS 041 PAOGRESS AVENUE: SCARBOROUGH; ONTARIO Mih?x4", "TeleX: 065-25399", "TELEPHONE: 416/438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–319 mm across, 0–425 mm up",
+  "- **Outlines:** line 35 rings, 842 straight (2,946 mm) / 80 curved (126 mm); text 191 rings, 2,145 straight (2,774 mm) / 471 curved (768 mm); tb 2 rings, 118 straight (292 mm) / 8 curved (19.5 mm)",
+  "- **Words (OCR):** 12 in 8 lines: WARD-BECK SYSTEMS LTD · WBS 041 PAOGRESS AVENUE: SCARBOROUGH; ONTARIO Mih?x4 · TeleX: 065-25399 · TELEPHONE: 416/438-6550 · Ma56b · DUAL · MIXDOWN MODULE · DESICN AND MANUFACTURE OF PAOFESSIONAL AUDIO EQUIPMENT",
+  "- **Title block:** (48, 393)–(271, 429) mm: WARD-BECK SYSTEMS LTD · WBS 041 PAOGRESS AVENUE: SCARBOROUGH; ONTARIO Mih?x4 · TeleX: 065-25399 · TELEPHONE: 416/438-6550"
+ ]
+}

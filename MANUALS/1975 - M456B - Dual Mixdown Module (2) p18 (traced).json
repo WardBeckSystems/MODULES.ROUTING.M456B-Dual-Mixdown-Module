@@ -1,0 +1,47 @@
+{
+ "drawing": "Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/7ca8c01333081906-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 311.8, 424.0],
+ "outlines": {
+  "line": {"rings": 83, "straight": {"n": 904, "mm": 3771.6}, "curved": {"n": 124, "mm": 196.9}},
+  "text": {"rings": 34, "straight": {"n": 259, "mm": 335.5}, "curved": {"n": 65, "mm": 102.3}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [107.3, 408.7, 112.1, 413.4], "w": 4.7, "h": 4.7, "from": "ring"}],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [125.0, 279.8, 140.3, 285.8], "text": "5·10"},
+   {"mm": [148.8, 279.8, 212.2, 286.0], "text": "AMPLIfiER SERIES"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"},
+   {"mm": [169.0, 6.3, 179.2, 12.3], "text": "101"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–312 mm across, 0–424 mm up",
+  "- **Outlines:** line 83 rings, 904 straight (3,772 mm) / 124 curved (197 mm); text 34 rings, 259 straight (336 mm) / 65 curved (102 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 8 in 7 lines: 5·10 · AMPLIfiER SERIES · ps · BS · tp · ht · 101"
+ ]
+}
