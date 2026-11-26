@@ -21,7 +21,7 @@ Wiki page: [M456B](../../../../PAGES/M456B.md)
 - **Closed boxes:** 14
 - **Wiring (first pass):** 246 connected wire groups from 928 runs
 
-Every curve, box, word and wire group: [1975 - M456B - 456-01-003 - SOLO CONTROL COMMON (2) (traced).json](../SCHEMATICS/1975%20-%20M456B%20-%20456-01-003%20-%20SOLO%20CONTROL%20COMMON%20(2)%20(traced).json) (the CAD file: `1975 - M456B - 456-01-003 - SOLO CONTROL COMMON (2) (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - 456-01-003 - SOLO CONTROL COMMON (2) (traced).json](../SCHEMATICS/1975%20-%20M456B%20-%20456-01-003%20-%20SOLO%20CONTROL%20COMMON%20%282%29%20%28traced%29.json) (the CAD file: `1975 - M456B - 456-01-003 - SOLO CONTROL COMMON (2) (traced).dxf`).
 
 ## Full text
 

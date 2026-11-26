@@ -20,7 +20,7 @@ Wiki page: [M456B](../../../../PAGES/M456B.md)
 - **Words (OCR):** 166 in 114 lines: Mon Out (4) · Mon Out (4) · ChI DIR in · ChI · DIR IN · MoN Out (3) · MON Out · cki PB in Bl 2 · ChI · PB |N · MoN Out (2) · MoN Out
 - **Title block:** (284, 2)–(432, 69) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN_ · M456E · ENG AUG 78 · DUAL · Mixduwn MODULE · CONNECTOR REAR VIEW · APP · SCALE · 456-04-006 · ISSUE
 
-Every curve, box, word and wire group: [1975 - M456B - 456-04-006 - XDOWN MODULE CONNECTOR REAR VIEW (traced).json](../PINOUTS/1975%20-%20M456B%20-%20456-04-006%20-%20XDOWN%20MODULE%20CONNECTOR%20REAR%20VIEW%20(traced).json) (the CAD file: `1975 - M456B - 456-04-006 - XDOWN MODULE CONNECTOR REAR VIEW (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - 456-04-006 - XDOWN MODULE CONNECTOR REAR VIEW (traced).json](../PINOUTS/1975%20-%20M456B%20-%20456-04-006%20-%20XDOWN%20MODULE%20CONNECTOR%20REAR%20VIEW%20%28traced%29.json) (the CAD file: `1975 - M456B - 456-04-006 - XDOWN MODULE CONNECTOR REAR VIEW (traced).dxf`).
 
 ## Full text
 

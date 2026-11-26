@@ -23,7 +23,7 @@ Wiki page: [M456B](../../../../PAGES/M456B.md)
 - **Title block:** (316, 0)–(432, 60) mm: 8 /78 · REDRAWN · ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: P MAxavey · M456 B · ENG RK B · DUAL MIXDOWN MODULE · CKD Kill · APP 9L1DlE · FUNCTIONAL DIAGRAM · ~SCALE · ISSUE · 456-01
 - **Wiring (first pass):** 203 connected wire groups from 676 runs; labelled ends: 222 mm → REv SEND, REV SEND; 178 mm → MON, FOLDBACK 2; 174 mm → CHANNEL, ON, FADER, (-15dB); 174 mm → CHANNEL, Oh, FADER, (-15dB); 137 mm → SOLO
 
-Every curve, box, word and wire group: [1975 - M456B - 456-01-003 - SOLO CONTROL COMMON (traced).json](../SCHEMATICS/1975%20-%20M456B%20-%20456-01-003%20-%20SOLO%20CONTROL%20COMMON%20(traced).json) (the CAD file: `1975 - M456B - 456-01-003 - SOLO CONTROL COMMON (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - 456-01-003 - SOLO CONTROL COMMON (traced).json](../SCHEMATICS/1975%20-%20M456B%20-%20456-01-003%20-%20SOLO%20CONTROL%20COMMON%20%28traced%29.json) (the CAD file: `1975 - M456B - 456-01-003 - SOLO CONTROL COMMON (traced).dxf`).
 
 ## Full text
 

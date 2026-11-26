@@ -26,7 +26,7 @@ Wiki page: [M456B](../../../../PAGES/M456B.md)
 - **Words (OCR):** 132 in 106 lines: @EM 0E7 · E8 · 0E3 · E4 · R4s 23 · R22 23 · ~R23 23 · R434k7 · R444k7 · R2o4k7 · R21 4k7 · RSO
 - **Title block:** (60, 6)–(368, 71) mm: ISSMODICKD · USED ON · MATL. · WBS WAAD-BECK · DRN · DM · 5-101 · FINISH · DATEFEB · 75 · DUAL · CKD · LAYOUT · SCALE
 
-Every curve, box, word and wire group: [1975 - M456B - 481-03-015 - DUAL BOOSTER AMPLIFIER (traced).json](../MECHANICAL/1975%20-%20M456B%20-%20481-03-015%20-%20DUAL%20BOOSTER%20AMPLIFIER%20(traced).json) (the CAD file: `1975 - M456B - 481-03-015 - DUAL BOOSTER AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - 481-03-015 - DUAL BOOSTER AMPLIFIER (traced).json](../MECHANICAL/1975%20-%20M456B%20-%20481-03-015%20-%20DUAL%20BOOSTER%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1975 - M456B - 481-03-015 - DUAL BOOSTER AMPLIFIER (traced).dxf`).
 
 ## Full text
 

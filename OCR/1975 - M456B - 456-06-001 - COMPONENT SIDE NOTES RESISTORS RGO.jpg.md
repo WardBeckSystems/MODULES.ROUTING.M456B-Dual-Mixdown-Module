@@ -20,7 +20,7 @@ Wiki page: [M456B](../../../../PAGES/M456B.md)
 - **Closed boxes:** 42
 - **Dots (junctions):** 13
 
-Every curve, box, word and wire group: [1975 - M456B - 456-06-001 - COMPONENT SIDE NOTES RESISTORS RGO (traced).json](../SCHEMATICS/1975%20-%20M456B%20-%20456-06-001%20-%20COMPONENT%20SIDE%20NOTES%20RESISTORS%20RGO%20(traced).json) (the CAD file: `1975 - M456B - 456-06-001 - COMPONENT SIDE NOTES RESISTORS RGO (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - 456-06-001 - COMPONENT SIDE NOTES RESISTORS RGO (traced).json](../SCHEMATICS/1975%20-%20M456B%20-%20456-06-001%20-%20COMPONENT%20SIDE%20NOTES%20RESISTORS%20RGO%20%28traced%29.json) (the CAD file: `1975 - M456B - 456-06-001 - COMPONENT SIDE NOTES RESISTORS RGO (traced).dxf`).
 
 ## Full text
 

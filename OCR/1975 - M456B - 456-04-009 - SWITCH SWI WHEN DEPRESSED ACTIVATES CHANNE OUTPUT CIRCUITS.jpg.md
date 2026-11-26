@@ -21,7 +21,7 @@ Wiki page: [M456B](../../../../PAGES/M456B.md)
 - **Words (OCR):** 226 in 128 lines: WBS · M4sob · MonITOR ASS IGNMENT swi tches 5w9 Swio, Swi · and Swi2 Wnen dep esse0 · fed · summing · resistors · che output gna · externa · MOm · buses · SYNC Switch
 - **Title block:** (213, 0)–(425, 422) mm: WBS · M4sob · RS2 · Channe · sect · ion: · controls operate · anner · cent ical channe · ISSUE DATE · REVISION · WBS · WARD-BECk SySTEMS · ChON Ch ON · M4568 · ENG_ · DUAL MIXDOWN MODULE · CKD · RL · 
 
-Every curve, box, word and wire group: [1975 - M456B - 456-04-009 - SWITCH SWI WHEN DEPRESSED ACTIVATES CHANNE OUTPUT CIRCUITS (traced).json](../MECHANICAL/1975%20-%20M456B%20-%20456-04-009%20-%20SWITCH%20SWI%20WHEN%20DEPRESSED%20ACTIVATES%20CHANNE%20OUTPUT%20CIRCUITS%20(traced).json) (the CAD file: `1975 - M456B - 456-04-009 - SWITCH SWI WHEN DEPRESSED ACTIVATES CHANNE OUTPUT CIRCUITS (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - 456-04-009 - SWITCH SWI WHEN DEPRESSED ACTIVATES CHANNE OUTPUT CIRCUITS (traced).json](../MECHANICAL/1975%20-%20M456B%20-%20456-04-009%20-%20SWITCH%20SWI%20WHEN%20DEPRESSED%20ACTIVATES%20CHANNE%20OUTPUT%20CIRCUITS%20%28traced%29.json) (the CAD file: `1975 - M456B - 456-04-009 - SWITCH SWI WHEN DEPRESSED ACTIVATES CHANNE OUTPUT CIRCUITS (traced).dxf`).
 
 ## Full text
 

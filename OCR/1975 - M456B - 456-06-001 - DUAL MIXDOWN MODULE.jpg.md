@@ -22,7 +22,7 @@ Wiki page: [M456B](../../../../PAGES/M456B.md)
 - **Words (OCR):** 41 in 36 lines: 883 · Ji · 849 · 83 88 · 8 3 · 24 · 84 · 13 · 13 · 2 8 · 82 & 62 · 80
 - **Title block:** (350, 2)–(387, 27) mm: WBS WAAD · DILEEB · 93 · CKD; / · BCALE
 
-Every curve, box, word and wire group: [1975 - M456B - 456-06-001 - DUAL MIXDOWN MODULE (traced).json](../SCHEMATICS/1975%20-%20M456B%20-%20456-06-001%20-%20DUAL%20MIXDOWN%20MODULE%20(traced).json) (the CAD file: `1975 - M456B - 456-06-001 - DUAL MIXDOWN MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - 456-06-001 - DUAL MIXDOWN MODULE (traced).json](../SCHEMATICS/1975%20-%20M456B%20-%20456-06-001%20-%20DUAL%20MIXDOWN%20MODULE%20%28traced%29.json) (the CAD file: `1975 - M456B - 456-06-001 - DUAL MIXDOWN MODULE (traced).dxf`).
 
 ## Full text
 

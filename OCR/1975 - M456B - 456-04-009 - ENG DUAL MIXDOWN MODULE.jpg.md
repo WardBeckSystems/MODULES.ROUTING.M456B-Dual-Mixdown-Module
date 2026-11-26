@@ -19,7 +19,7 @@ Wiki page: [M456B](../../../../PAGES/M456B.md)
 - **Circles and arcs:** 19 circles, 0 arcs; largest r 3.7 @ (213.2, 33.2), r 3.7 @ (200.3, 33.2), r 2.7 @ (212.7, 140.5), r 2.7 @ (199.9, 154.2)
 - **Closed boxes:** 13
 
-Every curve, box, word and wire group: [1975 - M456B - 456-04-009 - ENG DUAL MIXDOWN MODULE (traced).json](../MECHANICAL/1975%20-%20M456B%20-%20456-04-009%20-%20ENG%20DUAL%20MIXDOWN%20MODULE%20(traced).json) (the CAD file: `1975 - M456B - 456-04-009 - ENG DUAL MIXDOWN MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - 456-04-009 - ENG DUAL MIXDOWN MODULE (traced).json](../MECHANICAL/1975%20-%20M456B%20-%20456-04-009%20-%20ENG%20DUAL%20MIXDOWN%20MODULE%20%28traced%29.json) (the CAD file: `1975 - M456B - 456-04-009 - ENG DUAL MIXDOWN MODULE (traced).dxf`).
 
 ## Full text
 

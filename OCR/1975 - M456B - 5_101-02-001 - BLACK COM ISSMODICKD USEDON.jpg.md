@@ -23,7 +23,7 @@ Wiki page: [M456B](../../../../PAGES/M456B.md)
 - **Title block:** (347, 15)–(410, 27) mm: WBS WAAD-BeCk bybteme
 - **Wiring (first pass):** 79 connected wire groups from 545 runs; labelled ends: 123 mm → 6k2, R5, R52, Gk?; 122 mm → R2g, 6k2, Sk2, R30; 122 mm → +18v (8k, R53, C1o, R2g; 115 mm → +18v ibk, R51, 2200p, 6k2; 89 mm → C1o, R2g, 220e, 6k2
 
-Every curve, box, word and wire group: [1975 - M456B - 5_101-02-001 - BLACK COM ISSMODICKD USEDON (traced).json](../SCHEMATICS/1975%20-%20M456B%20-%205_101-02-001%20-%20BLACK%20COM%20ISSMODICKD%20USEDON%20(traced).json) (the CAD file: `1975 - M456B - 5_101-02-001 - BLACK COM ISSMODICKD USEDON (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - 5_101-02-001 - BLACK COM ISSMODICKD USEDON (traced).json](../SCHEMATICS/1975%20-%20M456B%20-%205_101-02-001%20-%20BLACK%20COM%20ISSMODICKD%20USEDON%20%28traced%29.json) (the CAD file: `1975 - M456B - 5_101-02-001 - BLACK COM ISSMODICKD USEDON (traced).dxf`).
 
 ## Full text
 

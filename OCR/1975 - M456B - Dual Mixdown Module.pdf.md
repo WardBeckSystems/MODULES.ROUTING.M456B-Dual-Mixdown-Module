@@ -22,7 +22,7 @@ Wiki page: [M456B](../../../../PAGES/M456B.md)
 - **Words (OCR):** 12 in 8 lines: WARD-BECK SYSTEMS LTD · WBS 041 PAOGRESS AVENUE: SCARBOROUGH; ONTARIO Mih?x4 · TeleX: 065-25399 · TELEPHONE: 416/438-6550 · Ma56b · DUAL · MIXDOWN MODULE · DESICN AND MANUFACTURE OF PAOFESSIONAL AUDIO EQUIPMENT
 - **Title block:** (48, 393)–(271, 429) mm: WARD-BECK SYSTEMS LTD · WBS 041 PAOGRESS AVENUE: SCARBOROUGH; ONTARIO Mih?x4 · TeleX: 065-25399 · TELEPHONE: 416/438-6550
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p1 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p1%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p1 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p1%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -32,7 +32,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p1 (t
 - **Words (OCR):** 66 in 40 lines: WAAD-BECK SYSTEMS LTD; · TABLE OF CONTENIS · M456B DUAL MIXDOWN MODULE · SECTION · PAGE · Warranty · Technica] Da ta · 1-1 to 1-2 · circuit · Description · 2-1 to · 2-3
 - **Title block:** (27, 403)–(159, 428) mm: WAAD-BECK SYSTEMS LTD;
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p2 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p2%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p2 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p2%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -43,7 +43,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p2 (t
 - **Words (OCR):** 141 in 83 lines: WAAD-BECK SYSTEMS LTD; · TECHNICAL DATA · M456B DUAL · MIXDOWN_MODULE · Gain: · Adjustable from · dB · to · dB , · t1 · dB · (fader fully open)
 - **Title block:** (23, 404)–(134, 428) mm: WAAD-BECK SYSTEMS LTD;
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p3 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p3%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p3 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p3%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -53,7 +53,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p3 (t
 - **Words (OCR):** 46 in 23 lines: WAAD-BECK systems LTD_ · TECHNICAL DATA · M456B DUAL · MIXDOWN_MODULE · Phasing: · Input and output termina]s des i gnated · by numbers are · in · phase · Power Requirements : · +25 volts · dc , 50 ma nomina]
 - **Title block:** (24, 405)–(135, 429) mm: WAAD-BECK systems LTD_
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p4 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p4%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p4 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p4%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -64,7 +64,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p4 (t
 - **Words (OCR):** 284 in 115 lines: WAAD-BECK SYSTEMS LTD; · CIRCUIT · DESCRIPTION · M456B DUAL MIXDOWN MODULE · The M456B is dua1 channe] unit · designed to receive either · (DIRECT) outputs or · console · tape · (PLAYBACK) outputs · A solid · state switch selects the
 - **Title block:** (26, 404)–(157, 429) mm: WAAD-BECK SYSTEMS LTD;
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p5 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p5%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p5 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p5%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -73,7 +73,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p5 (t
 - **Outlines:** line 58 rings, 1,198 straight (3,448 mm) / 195 curved (304 mm); text 1,850 rings, 14,818 straight (16,282 mm) / 4,051 curved (6,367 mm)
 - **Words (OCR):** 260 in 119 lines: WAAD-BECK SYSTEMS LTD · CIRCUIT · DESCRIPTION · M456B DUAL · MIXDOWN_MODULE · K1 is · operated by · transistor driver · consting Q1 and · 0 f · Q2 _ · It may
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p6 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p6%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p6 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p6%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -84,7 +84,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p6 (t
 - **Words (OCR):** 86 in 43 lines: WAAD-BECK SYSTEMS LTD · CIRCUI DESCRIPTION · M456B DUAL · MIXDOWN_MODULE · Channel · The second channel 0 f · the M456B operates in manner · identica] · to · channel · described · above
 - **Title block:** (21, 404)–(132, 429) mm: WAAD-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p7 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p7%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p7 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p7%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -95,7 +95,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p7 (t
 - **Words (OCR):** 108 in 90 lines: WAAD-BECK systems LTD_ · PARTS · LIST · M456B DUAL MiXdOWN · MODULE · PART · DESCRIPTION · MFG · MFG PART · NUMBER · Capacitor 22 uF/25 · Philips 426ETF22
 - **Title block:** (22, 404)–(133, 429) mm: WAAD-BECK systems LTD_
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p8 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p8%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p8 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p8%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -107,7 +107,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p8 (t
 - **Words (OCR):** 75 in 61 lines: WAAD-BECK systems LTD · PARTS LIST · M456B DUAL · MIXDOWN_MODULE · PARI · DESCRIPTION · MFG · MFG PART · NUMBER · C36 · Philips 2222-638-70479 · Capacitor 47 pF
 - **Title block:** (26, 403)–(137, 428) mm: WAAD-BECK systems LTD
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p9 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p9%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p9 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p9%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -117,7 +117,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p9 (t
 - **Closed boxes:** 11
 - **Words (OCR):** 62 in 54 lines: WAAD-BECK SYsTems LTD · PARIS LIST · M456B DUAL MiXdown MODULE · PART · DESCRIPTION · MFG · MFG PART NUMBER · Transistor · Nationa | · 2n2102 · 5F88641 · 2n4401
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p10 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p10%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p10 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p10%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -128,7 +128,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p10 (
 - **Words (OCR):** 108 in 93 lines: WAAD-BECK SYSTEMS LTD_ · PARIS LIST · M456B DUAL MIXDOWN MODULE · PART · DESCRIPTION · MFG · MFG · PART NUMBER · R9 · Philips · Resistor · 53 15k
 - **Title block:** (27, 402)–(157, 427) mm: WAAD-BECK SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p11 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p11%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p11 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p11%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -139,7 +139,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p11 (
 - **Words (OCR):** 88 in 83 lines: WAAD-BECK SYSTEMS LTo_ · PARTS · LIST · M456B DUAL · MIXDOWN_MODULE · PART · DESCRIPTION · MFG · MFG PART NUMBER · R44 · Resistor · 180k
 - **Title block:** (24, 114)–(262, 429) mm: WAAD-BECK SYSTEMS LTo_ · PARTS · LIST · M456B DUAL · MIXDOWN_MODULE · PART · DESCRIPTION · MFG · R44 · Resistor · 180k · Philips · R45 · 15k · R46 · 620 · R47 · 15K · R48 · 15k · R49 · 15k · R5o · 15K
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p12 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p12%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p12 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p12%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -151,7 +151,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p12 (
 - **Words (OCR):** 95 in 84 lines: WARD-BECK SYSTEMS LTD_ · PARTS LIST · M456B DUAL MIXDOWN · MODULE · PART · DESCRIPTION · MFG · MFG PART NUMBER · R79 · Resistor · 52 15k · Philips
 - **Title block:** (23, 248)–(261, 426) mm: WARD-BECK SYSTEMS LTD_ · PARTS LIST · M456B DUAL MIXDOWN · MODULE · PART · DESCRIPTION · MFG · R79 · Resistor · 52 15k · Philips · R80 · 30k · R8 1 · 30k · R82 · 100 · R83 · 100 · R84 · R85 · Potentio
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p13 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p13%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p13 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p13%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -162,7 +162,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p13 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 104 in 95 lines: WAAD-BECK SYSTeMS LTD_ · PARTS LIST · M456B DUAL · MIXDOWN_MODULE · PART · DESCRIPTION · MFG · MFG · PART NUMBER · R113 · Resistor GW · 15k
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p14 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p14%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p14 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p14%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -173,7 +173,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p14 (
 - **Words (OCR):** 90 in 83 lines: WAAD-BECK SYSTEMS LTD · PARTS LIST · M456B DUAL · MIXDOWN MODULE · PART · DESCRIPTION · MFG · MFG PART NUMBER · R148 · Resistor · 10k · Philips
 - **Title block:** (26, 99)–(256, 428) mm: WAAD-BECK SYSTEMS LTD · PARTS LIST · M456B DUAL · MIXDOWN MODULE · PART · DESCRIPTION · MFG · R148 · Resistor · 10k · Philips · R149 · 180k · R15o · 15k · R151 · 620 · R152 · 15k · R153 · 15K · R154 ·
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p15 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p15%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p15 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p15%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -183,7 +183,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p15 (
 - **Words (OCR):** 81 in 73 lines: WAAD-BECK SYSTEMS LTD_ · PARTS LIST · M456B DUAL · MXDONN_MODULE · MFG · MFG · PART NUMBER · PART · DESCRIPTION · R183 · Resistor XW · 15k
 - **Title block:** (21, 43)–(283, 429) mm: WAAD-BECK SYSTEMS LTD_ · PARTS LIST · M456B DUAL · MXDONN_MODULE · MFG · MFG · PART NUMBER · PART · DESCRIPTION · R183 · Resistor XW · 15k · Philips · R184 · 15k · R185 · 30k · R186 · 30k · R187 · 100
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p16 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p16%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p16 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p16%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -194,7 +194,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p16 (
 - **Words (OCR):** 72 in 50 lines: WAAD-BECK SYSTEMS · LTD_ · PARIS LISI · M456B DUAL MIXDOWN_MODULE · PART · DESCRIPIION · MFG · MFG PART · NUMBER · SWg · SW1o Switch Assembly · Schadow
 - **Title block:** (23, 51)–(258, 426) mm: WAAD-BECK SYSTEMS · LTD_ · PARIS LISI · M456B DUAL MIXDOWN_MODULE · PART · DESCRIPIION · MFG · MFG PART · SWg · SW1o Switch Assembly · Schadow · SW11 · WBS · SW12 · SW13 · Switch · WBS 11-002 · SW14 ·
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p17 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p17%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p17 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p17%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -203,7 +203,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p17 (
 - **Outlines:** line 28 rings, 394 straight (2,993 mm) / 30 curved (45.5 mm); text 55 rings, 551 straight (694 mm) / 104 curved (165 mm)
 - **Words (OCR):** 6 in 3 lines: WAAD-BECK Eybtemb LTD_ · 5-101 AMPLIFIER SERIES · 5 -101
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p18 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p18%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p18 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p18%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -213,7 +213,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p18 (
 - **Words (OCR):** 179 in 105 lines: WAAD-BECK SystemS LTD_ · OTJ · DESCRIPTION · 5-101 AMPLIFIER · SERIES · The 5-101 · series · of amp] ifiers are · utilized a5 · p]ug-in · units · within certain Ward-Beck
 - **Title block:** (26, 307)–(177, 426) mm: WAAD-BECK SystemS LTD_ · DESCRIPTION · 5-101 AMPLIFIER · The 5-101 · series · of amp] ifiers are · within certain Ward-Beck · Systems 450 and · There are · two · separate · amp]ifiers per
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p19 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p19%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p19 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p19%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -224,7 +224,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p19 (
 - **Words (OCR):** 174 in 99 lines: WAAD-BECK SysteMS LTD_ · GRAW · 30 · DESCRIPIION · 5-101 AMPLIFIER · SERIES · The operation 0 f both · amp]ifier sections is · identica] · 9i · one · section will be
 - **Title block:** (21, 401)–(129, 426) mm: WAAD-BECK SysteMS LTD_
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p20 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p20%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p20 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p20%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -234,7 +234,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p20 (
 - **Words (OCR):** 106 in 83 lines: WAAD-BECK SYSTEMS LTD_ · PARIS LIST · 5-101 DUAL BOOSTER · AMPLIFIER · PART DESCRIPTION · MFG · MFG PART NUMBER · Capacitor uF/10 V , 49 · 33 · Kemet · T3900336M010As · 2200 pF
 - **Title block:** (22, 402)–(130, 426) mm: WAAD-BECK SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p21 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p21%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p21 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p21%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -244,7 +244,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p21 (
 - **Words (OCR):** 120 in 108 lines: GTJ · Zmatey8 · Xoaa-ORAW · WAAD-BECK SYSteMS LTD_ · PARTS · LISI · 5-101 DUAL BOOSTER · AMPLIFIER · PART DESCRIPTION · 31M MFG · MFG PART NUMBER · RI
 - **Title block:** (22, 400)–(131, 425) mm: WAAD-BECK SYSteMS LTD_
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p22 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p22%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p22 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p22%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -254,7 +254,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p22 (
 - **Words (OCR):** 82 in 65 lines: WARD-BECK SYSTeMS LTD_ · PARTS LIST · 5-101 DUAL BOOSTER AMPLIFIER · PART DESCRIPTION · MFG · MFG PART · NUMBER · R36 · Resistor · 15k · Philips · R37
 - **Title block:** (18, 102)–(126, 425) mm: WARD-BECK SYSTeMS LTD_ · PART DESCRIPTION · R36 · Resistor · R37 · R38 · R39 · R4o · R41 · R42 · R43 · R44 · R45 · R46 · R47 · R48 · R49 · Res istor · R5o · R5I · Res istor · R52 · R53 · R54 · 21 · In
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p23 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p23%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p23 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p23%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -266,7 +266,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p23 (
 - **Words (OCR):** 221 in 135 lines: WBS · M4s6b · Moni TOR AsSiGnMEnI switches · and 5w12 When depr esse0 · Swio; SwI · the output · (or · exicrno · gna · mar · summ| · buses
 - **Title block:** (214, 0)–(425, 422) mm: WBS · M4s6b · RS? · Channe | cecti · cfanne?l{ operate · manner · centical · RS1 · FBI · REVISION · SSUE (DATe · APP · WBS WAAD-BECK SYSTEMS · CH ON Ch On · M456b · ENG; · MIXDOWN MODULE · CKD · DUAL 
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p24 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p24%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p24 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p24%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -280,7 +280,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p24 (
 - **Title block:** (317, 0)–(432, 60) mm: 8 [ 78 · REDRAWN · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: PMAYaey · M456 B · ENG; RKB · DUAL · MIXDOWN · MODULE · APP · FUNCTIONAL DIAGRAM · SSCALE · 456-01-003 · ISSUE
 - **Wiring (first pass):** 207 connected wire groups from 722 runs; labelled ends: 170 mm → COMMON; 156 mm → MON, FOLDBACK 2; 155 mm → FADER, (-15dB), CHANNEL; 145 mm → CHANNEL, ON, FADGR, (-I5dB); 137 mm → SOLO
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p25 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p25%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p25 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p25%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -293,7 +293,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p25 (
 - **Words (OCR):** 163 in 145 lines: >P2 - · M2 · #Pi-IG · CIRECT · ~P-T · 24v ( Pz-Y) · CrI · Riio · P2 · 1N4003 · RI · 5421
 - **Title block:** (359, 11)–(415, 26) mm: WBS · WAAD-Beck · DT
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p26 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p26%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p26 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p26%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -306,7 +306,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p26 (
 - **Words (OCR):** 33 in 30 lines: 88 · 34 · '84 · 8 3 · 30 · WL Il · 02 · 40 · 0Q · 00 · 25 · J8
 - **Title block:** (354, 13)–(432, 27) mm: WBS WaAD-BeCk ByBTeMB LTD · M4568
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p27 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p27%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p27 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p27%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -317,7 +317,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p27 (
 - **Words (OCR):** 171 in 116 lines: Mon Out (4) · MoN Out (4) · CHI DIR IN · ChI · DIR in · MoN Out (3) · cki PB |N B 2 · Chi PB · in · Mon Out (2) · MoN Out (2) · NC
 - **Title block:** (284, 2)–(432, 70) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN · M456E · ENG_ AUG_ 78 · DUAL · Xduwn MODULE · CONNECTOR REAR VIEW · CKD · APP · SCALE · 456-04-006 · ISSUE
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p28 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p28%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p28 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p28%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -331,7 +331,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p28 (
 - **Title block:** (344, 1)–(410, 27) mm: WBS WAADS BECK BYBTEMB LTD · 5-101 · M75 DUAL · BOOSTER AMPLIFIER · CKD. · SCALE · SCHEMATIC · TOLS · 5-101-02-001
 - **Wiring (first pass):** 74 connected wire groups from 541 runs; labelled ends: 120 mm → 6k2, R28, {20k, R30; 111 mm → R29, Cio, 6k2, R28; 110 mm → +18y, R5, 6k2, izok; 95 mm → R5, 6k2, izok, P52; 87 mm → 2200p, 6k2, 23/10, P52
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p29 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p29%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p29 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p29%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p29 (traced).dxf`).
 
 ### Page 30
 
@@ -344,7 +344,7 @@ Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p29 (
 - **Words (OCR):** 134 in 101 lines: @EMI 0E7 · E8 · 0E3 · E4 · R45 23 · R4G · 23 · R22 23 · ~R23 23 · R434k7 · R2o4k7 · R444k7
 - **Title block:** (60, 6)–(368, 71) mm: DSSMOD CKD · USED ON · MATL . · WBS WAAD-BECK · 3142 |6EB · DRN: · DM · 5_101 · FINISH · DATE FEB · 75 · DUAL BOOSTER AMPLIFIER · Ri · CKD_ · LAYOUT · SCALE · 2 :1
 
-Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p30 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p30%20(traced).json) (the CAD file: `1975 - M456B - Dual Mixdown Module p30 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456B - Dual Mixdown Module p30 (traced).json](../MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p30%20%28traced%29.json) (the CAD file: `1975 - M456B - Dual Mixdown Module p30 (traced).dxf`).
 
 ## Full text
 
