@@ -1,4 +1,4 @@
-# M456B · Routing
+# M456B Dual Mixdown Module · Routing
 
 Ward-Beck Systems M456B, 1975|8. Wiki page: [M456B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M456B.html)
 
@@ -6,7 +6,7 @@ Ward-Beck Systems M456B, 1975|8. Wiki page: [M456B on WBSps.ca](https://wardbeck
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 37 |
 | [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 14 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 14 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 16 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 230 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
