@@ -1,0 +1,238 @@
+{
+ "module": "M456B",
+ "title": "M456B DUAL MIXDOWN_MODULE",
+ "source": {
+  "file": "MANUALS/1975 - M456B - P4.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "Adjustable from +5 dB to -5 dB _ t1 dB (fader fully open) _ ±0.25 dB from 20 Hz to 20 kHz.",
+   "quantities": [
+    {
+     "value": 5,
+     "unit": "dB"
+    },
+    {
+     "value": -5,
+     "unit": "dB"
+    },
+    {
+     "value": 1,
+     "unit": "dB"
+    },
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "75 dB below nomina] output of -10 dBm (20 Hz to 20 kHz)",
+   "quantities": [
+    {
+     "value": 75,
+     "unit": "dB"
+    },
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.25% THD from 20 Hz to 20 kHz under the fo]owing conditions:",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Input",
+   "key": "input",
+   "text": "+24 dBm Sensitivity: +8 dBm Fader: -15 dB Output: +6 dBm",
+   "quantities": [
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": -15,
+     "unit": "dB"
+    },
+    {
+     "value": 6,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "600 ohms maXimum, balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "30 000 ohms balanced (6,000 ohms with vu meter connected)",
+   "quantities": [
+    {
+     "value": 0,
+     "unit": "ohms"
+    },
+    {
+     "value": 6000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input levels",
+   "key": "input_level",
+   "text": "0 to +10 dBm nomina] +24 dBm maximum",
+   "quantities": [
+    {
+     "from": 0,
+     "to": 10,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Direct",
+     "text": "SUMMING: Less than 200 ohms balanced _ 60,000 ohms or 30,000 ohms respectively, each output; balanced",
+     "quantities": [
+      {
+       "value": 200,
+       "unit": "ohms"
+      },
+      {
+       "value": 60000,
+       "unit": "ohms"
+      },
+      {
+       "value": 30000,
+       "unit": "ohms"
+      }
+     ],
+     "key": "direct"
+    }
+   ]
+  },
+  {
+   "name": "Load impedances",
+   "key": "load_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Direct",
+     "text": "SUMMING 600 ohms minimum, balanced _ 5 ohms or Tess.",
+     "quantities": [
+      {
+       "value": 600,
+       "unit": "ohms"
+      },
+      {
+       "value": 5,
+       "unit": "ohms"
+      }
+     ],
+     "key": "direct"
+    },
+    {
+     "name": "Output levels",
+     "text": "",
+     "quantities": [],
+     "key": "output_level"
+    },
+    {
+     "name": "Direct",
+     "text": "SUMMING: -10 dBm nomina ] +20 dBm maximum _ Designed to produce -10 dBm at output of unity gain summing amplifier.",
+     "quantities": [
+      {
+       "value": -10,
+       "unit": "dBm"
+      },
+      {
+       "value": 20,
+       "unit": "dBm"
+      },
+      {
+       "value": -10,
+       "unit": "dBm"
+      }
+     ],
+     "key": "direct"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf",
+   "page": 3
+  },
+  {
+   "file": "MANUALS/1975 - M456B - P5.jpg",
+   "page": 1
+  },
+  {
+   "file": "MANUALS/1975 - M456B - P004 - 1-2.jpg",
+   "page": 1
+  }
+ ]
+}

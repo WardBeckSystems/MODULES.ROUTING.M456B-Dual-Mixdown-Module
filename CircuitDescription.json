@@ -1,0 +1,128 @@
+{
+ "module": "M456B",
+ "source": {
+  "file": "MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf",
+  "pages": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ },
+ "ocr_quality": 0.82,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": "H4S6B DUAL HI XDOW N HODULE",
+   "paragraphs": [
+    "The H456B i s a dual channel unit designed tore cei ve either console (DIRECT) outputs o r tape (PLAYBACK) outputs. A solids tate switch selects the desired input source. The Ilod ule outputs feed a stereo 1l1xl ng bus which in turn supplies the feed forth eco nso le 1I0 nito ring sv s te s.",
+    "l!!.P.!!.! (Channel 11 described) Each channel is e q uf pped with. solid states witch ing circuit (Q3 through QB for Channel ' 1). This circuit operates in • two -p ol e double throw configuration.nd selects either the DIRECTor the PLAYBACK input for further processing. Int he 'nor.al' Ilode of operation, r. e. with p t n P2 -T oft he Ilod ul e connector not connected, the PLAYBACK input is switched ON and the DIRECT input iss witched OFF. When pin P2 -T is connected to ground potential, the status o f the two inputs is reversed. With the SYNC button SW8 depressed, the channel switching is assigned t o a separate control path forth e pu t-pe s e of selective sync or ov erd ub control. A separate cent ec t, perllit tinge x ter na l logic control via pin P2U, i s part of SIIB. The output of the solid states witch is followed by buffer up l 1f hrs Z1 and Z2. Z2 with QI O and Qll combined with Z3, Ql2 and Q13 for ll olin actively balanced output c i r cut t. Fro. here, the signal i s routed through the CHANNEl ON switch Sill and app ears at pins PI-2I / Y oft he Ilo du le connector. Mete ring Circuit Associated with each channel i s a ME!ter Select relay (KI). There lay picks off the signal ahead of thea udio solid state switches for the DIRECTor PLAYBACK inputs. ThE! lnE! tE!ri ng output appears at P2-9/K for HI.",
+    "OE! pending on the status of the relay, the metering c irc u t twill",
+    "bridge across either the DIRECTor the PlAYBACK input. As a",
+    "result, the meter circuit impedance will deter mine the input",
+    "impedance oft he channel being monitor e d.",
+    "WARC -BECK SYSTEMS LTC."
+   ]
+  },
+  {
+   "heading": "\"4 56 B DUAL KIXDOW N MODULE",
+   "paragraphs": [
+    "Kl 15 operated by a transfstor d rfver cons t f ng o f QI and Q2. I t lIay be switched directly by applying a closure to the control COllllon potential at P2-P o r selectively via opera t ion oft he SYNC swftc h SWB a t P2R.",
+    "The.. ete rfng selection 15 fndependen t of the audio Input selection. With the aid of e x t erna l logic. t.h t s perllits the choice of a udfo and lIle teri n g functions independent o f one another. o r else ina follow 1I0de. whichever lIay bede sired.",
+    "Pins P I -2 I IY feed the input of a balanced fade r. The fader output 15 returned to the Ilodu l eat pins PII B/ V. A console lilly be equipped with twos f n g l e slide a t eenuaters occupy fng a sf ngle e e e ute space width. and thereby serving both channels of an K456B e e e ute.",
+    "Booster AMplifier Fro ll pins PI-18/V of the 1I0d u i e connector. the signal 15 brought dfrectly tot he input of one half of the 5-101 Booster A..plffi er. Th15 lI..p l iffe r operates at a galn of 15 dB andre covers the loss incur red when the fader isp Laced fn the nOll l na l 15 dB i nhand\" po s ft ion.",
+    "Outputs The output signal of the 5-101 a llpli f f e rfeeds the LEFT and RIGHT ee t n outputs via PANs witch SW3 and PAN control R85 through R89. I t alsop ro v f de s the feed forth e DIRECT out put. and. via SW2. forth e SOLO output. A separate contact on SW2 allows the opera t f ono f external solo log f c control c t r cut try.",
+    "Pr e h de REVERB SEND and FOLDBACI(outputs are made available wf t h separate level controls R68 through R71, followed by",
+    "ass fgn ment switches SW4, SW5, SW6 and S1I7.",
+    "All module outputs are controlled by the CHAnNEL ON s wftc h.",
+    "144568 DUAL Ki l DOW\" MODULE",
+    "I!!.!.n.!!.tl..",
+    "The second che nne I of the 144568 operates ina lIan ne r t dent t ce t t o che nne t 11 as described above.",
+    "The DIRECT outputs o f the two..adu le cheln nels are brought out indhi duelll y. for all other outputs. the two c nanne rs a r-e COJl'l b l ned Into single outputs. Intended t o be connected tot he appropriate console.. ixing buses.",
+    "Power Supply Decoup l ing Powers upp l y deco up lf ng isp r c v t ce u by CR9, CRI D, R100 through RIOSa nd e1 9 through e 22.",
+    "RI 0 2 and RI0 3 d e couple the supply voltage and reduce i t to tl 8 volts too per e t e 2 1 through 26."
+   ]
+  },
+  {
+   "heading": "PARTS LIST",
+   "paragraphs": [
+    "PART DESCRIPTION HFG MFG PART NUMBER CI Capa~1 tor 2Z uF/ 2 5 V Philips 426ETFZZ 02 4.7 ~F/lO V K e ~e t Tl90B475MOIOAS",
+    "0.02Z uF"
+   ]
+  },
+  {
+   "heading": "0.1 ~F/35 V",
+   "paragraphs": [
+    "Aselce Ke~et"
+   ]
+  },
+  {
+   "heading": "CQ9Z-MC-213M",
+   "paragraphs": [
+    "Tl90A124M03SAS",
+    "ClO 33 uF/lO V 1 390 0336M0 10\" S Cl 1 C12 6.8 eF Ph!lips Z222 -6~8-09688 Cl 3",
+    "14 4 7 pF 0.01 uF As e1ce"
+   ]
+  },
+  {
+   "heading": "CQ9Z-MC-I03M",
+   "paragraphs": [
+    "Cl6 6.8 pF Philips 2ZZZ-638-09688 Cl7 220 ~ F /l O V K e~et 1390F2~7MO 10AS Cl 8 Cl9 22 u ~ / 2 5 y Ph!li ps 426ETF22",
+    "C24 4.7 ~F/lO V Ke ~ e t 1390B475MOIOAS",
+    "02 8 0.0 22 uF as etc c CQ92-MC-223 M C29 0.1 ~ F /3 5 V Ke~e t 1 390Al0 4M0 35AS 0 0",
+    "'32 33 u ~/lD V T 39 D D J ~6M OI OAS",
+    "'34 ef",
+    "6.8 Ph lips Z 2 22-6 ~ 8 -09 6 8 B"
+   ]
+  },
+  {
+   "heading": "PARTS LIST",
+   "paragraphs": [
+    "\" 4 568 DUAL \"IX DOIlN MODULE",
+    "PART DESCRIPTION MFG MFG PART NUM8ER",
+    "C36 Capa ~l tor 47 pF Phll ip s 2 22 2-6 38-70 479 C37 0.0 1 uF As e lc:o CQ92 -KCI03M C38 6.8pF Philips 2222 -638 -09688 C39 220 ~F /l O y Kelllet T39 0 F2 27 MOI OAS",
+    "CRt Diode Motor o h I H40 0 3 CR2 Fa l r c:hl1 d I N41 48",
+    "CR9 Hotoro h I N40 0 3"
+   ]
+  },
+  {
+   "heading": "CRIO",
+   "paragraphs": [
+    "CRll CR12 Fa irch il d I N41 48"
+   ]
+  },
+  {
+   "heading": "CR20",
+   "paragraphs": [
+    "LED, cod",
+    "051 FL!1l 7",
+    "S i;lIlen s V2~O I2 -AO I05 -AOO I \"\" Rel a!",
+    "W AFl C -B ECK SYSTEMS LTC."
+   ]
+  },
+  {
+   "heading": "H4 56B DUAL HIXDOWN HOOULE",
+   "paragraphs": [
+    "PART DESCRIPTION \"FG HFG PART HUMBER",
+    "~~ Tran ~ ls tor ZNZI 0 2"
+   ]
+  },
+  {
+   "heading": "PH3569",
+   "paragraphs": [
+    "Q3 S F~8 0 4 1",
+    "Q' 2H440 1 Ql0 Fai rc hil d 2H356 9 QlI 2H3645 Q12 2N3569 Q13 2N3645 Q14 2N2 102 Q15 PN3569 ere SF~804 1",
+    "Q22 2H4401 Q23 2H356 9 Q24 2N3645 Q25 2N3569 Q26 2N3645",
+    "'1 R es i ~ tor.v"
+   ]
+  },
+  {
+   "heading": "R6 22K",
+   "paragraphs": [
+    "R7 m"
+   ]
+  }
+ ]
+}
