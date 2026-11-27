@@ -201,30 +201,98 @@ Not on Google Drive yet: `M456B - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-21 contacts (P1), 21 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 2 pinout pictures (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 |  | unread |  | low |
-| 5 |  | unread |  | low |
-| 5 |  | unread |  | low |
-| 9 |  | unread |  | low |
-| 13 |  | unread |  | low |
-| 14 |  | unread |  | low |
-| 15 |  | unread |  | low |
-| 16 |  | unread |  | low |
-| 17 | CTL | control |  | low |
-| 18 |  | unread |  | low |
-| 18 |  | unread |  | low |
-| 21 |  | unread |  | low |
-| F |  | unread |  | low |
-| L |  | unread |  | low |
-| P |  | unread |  | low |
-| R |  | unread |  | low |
-| T |  | unread |  | low |
-| U |  | unread |  | low |
-| V | SOLO | audio |  | low |
-| Y |  | unread |  | low |
+| P1-1 | MON OUT 4 | out | MON OUT 4 | high |
+| P1-2 | MON OUT 3 | out | MON OUT 3 | high |
+| P1-3 | MON OUT 2 | out | MON OUT 2 | high |
+| P1-4 | MON OUT 1 | out | MON OUT 1 | high |
+| P1-5 | RS2 BUS | bus | RS2 | high |
+| P1-6 | RS1 BUS | bus | RS1 | high |
+| P1-7 | FB2 BUS | bus | FB2 | high |
+| P1-8 | FB1 BUS | bus | FB1 | high |
+| P1-9 | SOLO BUS | bus | SOLO | high |
+| P1-10 | SHIELD | shield |  | high |
+| P1-11 | N/C | nc |  | high |
+| P1-12 | N/C | nc |  | high |
+| P1-13 | N/C | nc |  | high |
+| P1-14 | N/C | nc |  | high |
+| P1-15 | CH1 DIRECT OUT | out | CH1 DIR OUT | high |
+| P1-16 | CH2 DIRECT OUT | out | CH2 DIR OUT | high |
+| P1-17 | N/C | nc |  | high |
+| P1-18 | CH1 BOOST IN | in | CH1 BOOST IN | high |
+| P1-19 | CH2 BOOST IN | in | CH2 BOOST IN | high |
+| P1-20 | SHIELD | shield |  | high |
+| P1-21 | CH1 PRE OUT | out | CH1 PRE OUT | high |
+| P1-22 | CH2 PRE OUT | out | CH2 PRE OUT | high |
+| P1-A | MON OUT 4 | out | MON OUT 4 | high |
+| P1-B | MON OUT 3 | out | MON OUT 3 | high |
+| P1-C | MON OUT 2 | out | MON OUT 2 | high |
+| P1-D | MON OUT 1 | out | MON OUT 1 | high |
+| P1-E | RS2 BUS | bus | RS2 | high |
+| P1-F | RS1 BUS | bus | RS1 | high |
+| P1-H | FB2 BUS | bus | FB2 | high |
+| P1-J | FB1 BUS | bus | FB1 | high |
+| P1-K | SOLO BUS | bus | SOLO | high |
+| P1-L | SHIELD | shield |  | high |
+| P1-M | N/C | nc |  | high |
+| P1-N | N/C | nc |  | high |
+| P1-P | N/C | nc |  | high |
+| P1-R | N/C | nc |  | high |
+| P1-S | CH1 DIRECT OUT | out | CH1 DIR OUT | high |
+| P1-T | CH2 DIRECT OUT | out | CH2 DIR OUT | high |
+| P1-U | N/C | nc |  | high |
+| P1-V | CH1 BOOST IN | in | CH1 BOOST IN | high |
+| P1-W | CH2 BOOST IN | in | CH2 BOOST IN | high |
+| P1-X | SHIELD | shield |  | high |
+| P1-Y | CH1 PRE OUT | out | CH1 PRE OUT | high |
+| P1-Z | CH2 PRE OUT | out | CH2 PRE OUT | high |
+| P2-1 | CH1 DIRECT IN | in | CH1 DIR IN | high |
+| P2-2 | CH1 PLAYBACK IN | in | CH1 PB IN | high |
+| P2-3 | N/C | nc |  | high |
+| P2-4 | N/C | nc |  | high |
+| P2-5 | CH2 DIRECT IN | in | CH2 DIR IN | high |
+| P2-6 | CH2 PLAYBACK IN | in | CH2 PB IN | high |
+| P2-7 | N/C | nc |  | high |
+| P2-8 | N/C | nc |  | high |
+| P2-9 | VU1 | out | VU1 | high |
+| P2-10 | VU2 | out | VU2 | high |
+| P2-11 | N/C | nc |  | high |
+| P2-12 | N/C | nc |  | high |
+| P2-13 | VU2 SELECT | control_in | VU2 SELECT | high |
+| P2-14 | VU2 SYNC | control_in | VU2 SYNC | high |
+| P2-15 | CH2 SELECT CONTROL | control_in | CH2 SEL CTL | high |
+| P2-16 | CH2 SYNC | control_in | CH2 SYNC | high |
+| P2-17 | CH2 EXT CONTROL | control_in | CH2 EXT CTL | high |
+| P2-18 | CONTROL COMMON | ground |  | high |
+| P2-19 | -25 V | power |  | high |
+| P2-20 | 25 V COMMON | ground |  | high |
+| P2-21 | +25 V | power |  | high |
+| P2-22 | CHASSIS | ground |  | high |
+| P2-A | CH1 DIRECT IN | in | CH1 DIR IN | high |
+| P2-B | CH1 PLAYBACK IN | in | CH1 PB IN | high |
+| P2-C | N/C | nc |  | high |
+| P2-D | N/C | nc |  | high |
+| P2-E | CH2 DIRECT IN | in | CH2 DIR IN | high |
+| P2-F | CH2 PLAYBACK IN | in | CH2 PB IN | high |
+| P2-H | N/C | nc |  | high |
+| P2-J | N/C | nc |  | high |
+| P2-K | VU1 | out | VU1 | high |
+| P2-L | VU2 | out | VU2 | high |
+| P2-M | N/C | nc |  | high |
+| P2-N | N/C | nc |  | high |
+| P2-P | VU1 SELECT | control_in | VU1 SELECT | high |
+| P2-R | VU1 SYNC | control_in | VU1 SYNC | high |
+| P2-S | CH1 SELECT CONTROL | control_in | CH1 SEL CTL | high |
+| P2-T | CH1 SYNC | control_in | CH1 SYNC | high |
+| P2-U | CH1 EXT CONTROL | control_in | CH1 EXT CTL | high |
+| P2-V | SOLO CONTROL | control_in | SOLO CTL | high |
+| P2-W | N/C | nc |  | high |
+| P2-X | N/C | nc |  | high |
+| P2-Y | +24 V | power |  | high |
+| P2-Z | N/C | nc |  | high |
 
 ## Manuals and documents
 
