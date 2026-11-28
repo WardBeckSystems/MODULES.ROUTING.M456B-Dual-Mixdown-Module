@@ -1,5 +1,5 @@
 # 1975 - M456B - P001 - Title Page.jpg
-Wiki page: [M456B](../../../../PAGES/M456B.md)
+Wiki page: [M456B](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

@@ -1,5 +1,5 @@
 # 1975 - M456B - 456-01-003 - SOLO CONTROL COMMON.jpg
-Wiki page: [M456B](../../../../PAGES/M456B.md)
+Wiki page: [M456B](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

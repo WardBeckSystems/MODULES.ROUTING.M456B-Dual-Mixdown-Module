@@ -1,6 +1,6 @@
 # M456B Dual Mixdown Module · Routing
 
-Ward-Beck Systems M456B, 1975|8. Wiki page: [M456B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M456B.html)
+Ward-Beck Systems M456B, 1975|8. Wiki page: [M456B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M456B-Dual-Mixdown-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

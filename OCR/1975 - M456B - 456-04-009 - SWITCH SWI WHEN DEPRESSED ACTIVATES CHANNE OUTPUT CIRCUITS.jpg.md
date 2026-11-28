@@ -1,5 +1,5 @@
 # 1975 - M456B - 456-04-009 - SWITCH SWI WHEN DEPRESSED ACTIVATES CHANNE OUTPUT CIRCUITS.jpg
-Wiki page: [M456B](../../../../PAGES/M456B.md)
+Wiki page: [M456B](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

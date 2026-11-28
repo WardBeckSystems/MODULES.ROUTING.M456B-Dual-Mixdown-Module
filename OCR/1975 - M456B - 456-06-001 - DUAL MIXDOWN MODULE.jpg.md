@@ -1,5 +1,5 @@
 # 1975 - M456B - 456-06-001 - DUAL MIXDOWN MODULE.jpg
-Wiki page: [M456B](../../../../PAGES/M456B.md)
+Wiki page: [M456B](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

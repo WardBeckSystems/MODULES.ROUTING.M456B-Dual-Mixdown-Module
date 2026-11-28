@@ -1,5 +1,5 @@
 # 1975 - M456B - 481-03-015 - DUAL BOOSTER AMPLIFIER.jpg
-Wiki page: [M456B](../../../../PAGES/M456B.md)
+Wiki page: [M456B](../)
 
 
 - **Year:** 1975 (found in this file: "DATE FEB 75")

@@ -1,5 +1,5 @@
 # 1975 - M456B - 5_101-02-001 - BLACK COM ISSMODICKD USEDON.jpg
-Wiki page: [M456B](../../../../PAGES/M456B.md)
+Wiki page: [M456B](../)
 
 
 - **Year:** 1975 (module estimate (labelled))
