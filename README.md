@@ -4,13 +4,11 @@ Ward-Beck Systems M456B, 1975|8. Wiki page: [M456B on WBSps.ca](https://wardbeck
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 37 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 14 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 16 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 230 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 36 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 15 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 229 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 63 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -206,8 +204,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVTFNcUdSaVhYUWM/view?resourcekey=0-bcaJpX4YQ36x9kS3R9ufHA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVTFNcUdSaVhYUWM&resourcekey=0-bcaJpX4YQ36x9kS3R9ufHA" width="240" alt="1975 - M456B - 456-04-006 - DUAL MIXDOWN MODULE CONNECTOR REAR VIEW.jpg"></a><br><sub>1975|8 · 456-04-006 - DUAL MIXDOWN MODULE CONNECTOR REAR VIEW · <a href="PINOUTS/1975%20-%20M456B%20-%20456-04-006%20-%20DUAL%20MIXDOWN%20MODULE%20CONNECTOR%20REAR%20VIEW%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKU0ZUaWxaQ1o2a1k/view?resourcekey=0-n8Zht8E0EbQOrSkST1QHYA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKU0ZUaWxaQ1o2a1k&resourcekey=0-n8Zht8E0EbQOrSkST1QHYA" width="240" alt="1975 - M456B - 456-04-006 - XDOWN MODULE CONNECTOR REAR VIEW.jpg"></a><br><sub>1975|8 · 456-04-006 - XDOWN MODULE CONNECTOR REAR VIEW · <a href="PINOUTS/1975%20-%20M456B%20-%20456-04-006%20-%20XDOWN%20MODULE%20CONNECTOR%20REAR%20VIEW%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M456B - RTO-144 Connections.pdf`
-
 ## RTO-144 pinout
 
 Read from 2 pinout pictures (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
@@ -341,7 +337,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1975 - M456B - Dual Mixdown Module p25.kicad_sch](KICAD/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p25.kicad_sch)
 - [1975 - M456B - Dual Mixdown Module p29.kicad_sch](KICAD/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module%20p29.kicad_sch)
 - [M456B.kicad_sym](KICAD/M456B.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
